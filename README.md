@@ -16,12 +16,13 @@ I am a multi line comment
 I can take as many lines as needed 
 
 =end
+
 ```
 # data types
 ```
 x = 1
 y = 1.2
-my_name = "Trevor Saudi"
+my_name = "Trevor Saudi N"
 year2020 = false
 year2021 = true
 ```
